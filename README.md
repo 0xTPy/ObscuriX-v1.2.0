@@ -27,7 +27,7 @@ UTILISATION
 
 Le bot est multifonction et peut être contrôlé directement depuis le terminal :
 
-PVP: Tape !pvp <joueur> pour lancer un combat. Grâce au plugin d'armure, il s'équipe tout seul si tu lui jettes des pièces d'armure directement.
+PVP: Tape !pvp [joueur] pour lancer un combat. Grâce au plugin d'armure, il s'équipe tout seul si tu lui jettes des pièces d'armure directement.
 
 Arrêt: Tape !stop pour stopper le bot proprement.
 
