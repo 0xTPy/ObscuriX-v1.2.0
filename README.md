@@ -11,14 +11,15 @@ INSTALLATION
 
 1) Télécharge et installe Node.js.
 
-2) Installe les plugins nécessaires au bon fonctionnement du bot en tapant cette commande dans ton terminal :
-npm install mineflayer mineflayer-pathfinder mineflayer-pvp mineflayer-armor-manager
-
-3) Clone le projet sur ta machine avec Git :
+2) Clone le projet sur ta machine avec Git :
 git clone https://github.com/0xTPy/ObscuriX-v1.2.0.git
 
-4) Lance le programme avec la commande:
-   cd ObscuriX-v1.2.0 puis node obscurix
+3) Lance le programme avec la commande:
+   cd ObscuriX-v1.2.0
+
+   npm install mineflayer mineflayer-pathfinder mineflayer-pvp mineflayer-armor-manager
+
+   node obscurix
 <p align="center">
 UTILISATION
 </p>
