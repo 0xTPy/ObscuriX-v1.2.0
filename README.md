@@ -15,8 +15,6 @@ INSTALLATION
 npm install mineflayer mineflayer-pathfinder mineflayer-pvp mineflayer-armor-manager
 
 3) Clone le projet sur ta machine avec Git :
-
-
 git clone https://github.com/0xTPy/ObscuriX-v1.2.0.git
 
 <p align="center">
@@ -25,7 +23,7 @@ UTILISATION
 
 Le bot est multifonction et peut être contrôlé directement depuis le terminal :
 
-PVP: Tape !pvp <joueur> pour lancer un combat. Grâce au plugin d'armure, il s'équipe tout seul si tu lui jetteras des pièces d'armure directement.
+PVP: Tape !pvp <joueur> pour lancer un combat. Grâce au plugin d'armure, il s'équipe tout seul si tu lui jettes des pièces d'armure directement.
 
 Arrêt: Tape !stop pour stopper le bot proprement.
 
