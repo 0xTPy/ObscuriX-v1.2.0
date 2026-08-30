@@ -18,8 +18,7 @@ npm install mineflayer mineflayer-pathfinder mineflayer-pvp mineflayer-armor-man
 git clone https://github.com/0xTPy/ObscuriX-v1.2.0.git
 
 4) Lance le programme avec la commande:
-   cd ObscuriX-v1.2.0
-   node obscurix
+   cd ObscuriX-v1.2.0 puis node obscurix
 <p align="center">
 UTILISATION
 </p>
