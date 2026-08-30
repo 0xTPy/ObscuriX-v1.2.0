@@ -12,9 +12,10 @@ INSTALLATION
 1) Télécharge et installe Node.js.
 
 2) Clone le projet sur ta machine avec Git :
-git clone https://github.com/0xTPy/ObscuriX-v1.2.0.git
+   ```bash
+   git clone https://github.com/0xTPy/ObscuriX-v1.2.0.git
 
-3) Lance le programme avec la commande:
+4) Lance le programme avec la commande:
    ```bash
    cd ObscuriX-v1.2.0
 
