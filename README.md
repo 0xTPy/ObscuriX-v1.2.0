@@ -17,6 +17,8 @@ npm install mineflayer mineflayer-pathfinder mineflayer-pvp mineflayer-armor-man
 3) Clone le projet sur ta machine avec Git :
 git clone https://github.com/0xTPy/ObscuriX-v1.2.0.git
 
+4) Lance le programme avec :
+   node obscurix
 <p align="center">
 UTILISATION
 </p>
