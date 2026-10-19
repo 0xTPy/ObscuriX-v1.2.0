@@ -9,7 +9,7 @@ Ce projet est un bot Minecraft multifonction pensé pour tourner sous Node.js de
 INSTALLATION  
 </p>
 
-1) Télécharge et installe Node.js.
+1) Télécharge Node.js.
 
 2) Clone le projet sur ta machine avec Git :
    ```bash
