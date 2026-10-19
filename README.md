@@ -37,8 +37,10 @@ CREDITS
 </p>
 
 
-Merci à
+Merci à :
 
--PrismarineJS et la communauté pour MineFlayer.  
--Konstantin Azizov pour le plugin mineflayer-armor-manager.  
--Les développeurs des plugins mineflayer-pathfinder et mineflayer-pvp
+• PrismarineJS et à la communauté pour mineflayer
+
+• Konstantin Azizov pour le plugin mineflayer-armor-manager
+
+• Les contributeurs de PrismarineJS pour les plugins mineflayer-pathfinder et mineflayer-pvp 
