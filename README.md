@@ -36,7 +36,6 @@ Arrêt: Tape !stop pour stopper le bot proprement.
 PROCHAINE MISE A JOUR
 </p>
 
-La prochaine mise à jour intégrera le pathfinding. Si tu connais Baritone, tu vois exactement de quoi le bot sera capable. Si tu ne connais pas, pour faire simple, on pourra lui donner des coordonnées X, Y, Z pour qu'il s'y rende tout seul, lui dire de suivre un joueur ou même de miner des blocs.
 
 Merci à
 
