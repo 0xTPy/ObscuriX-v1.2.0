@@ -33,12 +33,12 @@ PVP: Tape !pvp [joueur] pour lancer un combat. Grâce au plugin d'armure, il s'�
 Arrêt: Tape !stop pour stopper le bot proprement.
 
 <p align="center">
-PROCHAINE MISE A JOUR
+CREDITS
 </p>
 
 
 Merci à
 
-PrismarineJS et la communauté pour MineFlayer.  
-Konstantin Azizov pour le plugin mineflayer-armor-manager.  
-Les développeurs des plugins mineflayer-pathfinder et mineflayer-pvp
+-PrismarineJS et la communauté pour MineFlayer.  
+-Konstantin Azizov pour le plugin mineflayer-armor-manager.  
+-Les développeurs des plugins mineflayer-pathfinder et mineflayer-pvp
