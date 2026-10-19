@@ -55,6 +55,7 @@ rl.question('-IP du serveur : ', (ipSaisie) => {
               console.log('Connecté en tant que ' + bot.username)
               console.log('')
               console.log('================================')
+              //COMMANDE POUR LES SERVEURS CRACK
               bot.chat("/register eee222X& eee222X&")
               bot.chat("/login eee222X&")
             })
@@ -85,7 +86,7 @@ rl.question('-IP du serveur : ', (ipSaisie) => {
 
 
 
-//PVP + COMMANDE TERMINAL UNIQUE
+//PVP + COMMANDE
 
             rl.on('line', (texte) => {
               const ligneBrute = texte.trim()
