@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Language-JS-blue.svg" alt="Bash">
 </p>
 
-Ce projet est un bot Minecraft multifonction pensé pour tourner sous Node.js de manière simple et accessible. Il repose sur la librairie MineFlayer, qui permet de créer et contrôler des bots très facilement.
+C'est un bot Minecraft multifonction pensé pour tourner sous Node.js de manière simple et accessible. Il repose sur la librairie MineFlayer, qui permet de créer et contrôler des bots très facilement.
 
 <p align="center">
 INSTALLATION  
